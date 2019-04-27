@@ -21,9 +21,9 @@ class consts:
     FPS = 30
 
     #Menu Settings
-    DIFFICULTY = 0 #Value for the percentage of the time it should make a random move rather than the best move
+    DIFFICULTY = 1 #Value for the percentage of the time it should make a random move rather than the best move
     ENDSESSION = False #While true the program will quit after one game
-    AIGAME = True #While true the AI will play itself
+    AIGAME = False #While true the AI will play itself
     RANDOMSTART = True #While true the player going first will be random
 
 
